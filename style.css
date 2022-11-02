@@ -148,7 +148,7 @@ footer{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     height: 2em;
-    margin-top: 75%;
+    margin-top: 60%;
 
    
     
@@ -157,7 +157,7 @@ footer{
 footer h5{
     
     
-    font-size: larger;
+    font: size 2%;;
     padding: 4px;
 
 }
