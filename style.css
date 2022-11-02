@@ -39,7 +39,8 @@ nav a:hover{
     color: yellow;
 }
 aside{
-    width: 50%;
+    width: 54%;
+    
     
     float: left;
 }
@@ -92,12 +93,15 @@ button{
     margin-left: 38%;
     margin-top: 7%;
 }
-
+div{
+    
+    width: 80%;
+    float: left;
+}
 
 #skill h2{
     font-size: 1cm;
     text-decoration: underline;
-    margin-right: 50%;
 }
 
 
@@ -127,24 +131,35 @@ button{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
-.super{
-    margin-left: 20px;
+#skill{
+    width: 13%;
+}
+#edu{
+    width: 15%;
+}
+#exp{
+    width: 16%;
+    margin-left: 9px;
 }
 
-.super #skill{
-    float: left;
-
-}
 footer{
     background-color: black;
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
-    height: 1.5em;
-    margin-top: 5%;
+    height: 2em;
+    margin-top: 60%;
 
-    font-size: larger;
+   
     
+}
+
+footer h5{
+    
+    
+    font-size: larger;
+    padding: 4px;
+
 }
 
 
